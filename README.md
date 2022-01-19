@@ -12,7 +12,7 @@
 >> 结果：concerned about recent condition<br>
 >> 对比：和朋友是微信打字 text
 * 观点2：身体状况差，尤其是眼睛不好 poor condition, small size of the screen<br>
-* 结果:prefer to watching news on TV
+>> 结果:prefer to watching news on TV
 ## What kind of primary school teachers will impress students?
 * 观点1: 无私的
 >> unselfish, give a hand, show compassion, responsive to emotional needs
