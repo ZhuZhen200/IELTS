@@ -31,3 +31,10 @@
 >> 举例：play football  
 >> * 观点2: 真正的友谊应该是关心彼此
 >> 解释：not just have the same hobbies, when sad or upset, show compassion for, responsive to emotional needs
+## Do people have extra time for themselves nowadaya?
+* 观点1: 工作繁忙 busy at work
+>> 解释：挣钱养家 earn more money to support family； 经济衰退，要投入更多的时间到工作上
+>> 举例：  
+>> * 观点2: 女人要顾家
+>> 举例：一位父亲只有在车上的时间是自己的，下车不是工作就是家庭
+>> 建议：可以慢跑或者阅读，把时间留给自己
