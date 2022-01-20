@@ -20,3 +20,14 @@
 >> easygoing, in a good manner<br>
 >> 举例：equal status<br>
 >> 结果：benificial to students' development 
+## What can people do on social media?
+* 观点1: post个人近况 current situation
+>> 结果：有助于维系家人与朋友的感情 maintain relationship  
+>> * 观点2: 看新闻，看电影
+>> 解释：赶上时代 keep pace with ;网上电影便宜且流行 under the pandemic 
+## Is it important to have the same hobbies and interests when making friends?
+* 观点1: 有共同语言
+>> 解释：talk about, have common language
+>> 举例：play football  
+>> * 观点2: 真正的友谊应该是关心彼此
+>> 解释：not just have the same hobbies, when sad or upset, show compassion for, responsive to emotional needs
