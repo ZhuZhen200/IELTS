@@ -38,3 +38,13 @@
 * 观点2: 女人要顾家
 >> 举例：一位父亲只有在车上的时间是自己的，下车不是工作就是家庭
 >> 建议：可以慢跑或者阅读，把时间留给自己
+## What kinds of jobs are well-paid?
+* 观点1: IT行业，信息时代 information revolution
+>> 解释：各行各业都需要信息技术 all industry, programmer
+>> 结果：带来更先进的未来  
+* 观点2: 大学教授 college professor
+>> 解释1：工作有工资
+>> 解释2：和企业合作；将科研成果转化为利益 cooperate with enterprise, convert to, make profit
+* 观点3: 医生 doctor
+>> 解释1：工作与生命相关，很重要
+>> 解释2：需要经验 experienced, treat patient, deserve to be well-paid
