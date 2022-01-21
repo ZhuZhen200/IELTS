@@ -48,3 +48,11 @@
 * 观点3: 医生 doctor
 >> 解释1：工作与生命相关，很重要
 >> 解释2：需要经验 experienced, treat patient, deserve to be well-paid
+## What are the changes in working conditions?
+* 观点1: 机器代人
+>> 解释：科技发展
+>> 举例：农业机械 argricultural machinery
+* 观点2: 条件变好，尤其是卫生条件 hygienic environment
+>> 原因：人们注重卫生
+>> 举例：医生被感染的可能性更小 The likelihood of exposure is greatly reduced
+>> 结果：医生可以更好地工作，病人更好地恢复
