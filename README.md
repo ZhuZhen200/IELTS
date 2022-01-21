@@ -45,7 +45,7 @@
 2. 大学教授 college professor
 * 解释1：工作有工资
 * 解释2：和企业合作；将科研成果转化为利益 cooperate with enterprise, convert to, make profit
-* 观点3: 医生 doctor
+3. 医生 doctor
 * 解释1：工作与生命相关，很重要
 * 解释2：需要经验 experienced, treat patient, deserve to be well-paid
 ## What are the changes in working conditions?
