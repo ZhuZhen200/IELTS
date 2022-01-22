@@ -63,6 +63,7 @@
 2. 创新驱动型社会，更适合年轻人
 * 解释：年轻人更有想法，是主力军 many ideas，mainforce
 * 结果：社会更好 advanced future
+# 5
 ## Do you think children are borned with certain degree of cleverness? Or their intelligence can be nurtured?
 1. 可以通过科学的方法和营养改变智商
 * 背景：时代先进，生活条件改善，人们更注重孩子的健康发展，尤其是智力
@@ -70,3 +71,38 @@
 2. 
 * 
 * 
+## What can schools do to students' intellectural development?
+1. 结合兴趣的智力游戏 puzzle, match interest, enjoy the process
+* 背景：时代先进，生活条件改善，人们更注重孩子的健康发展，尤其是智力
+* 解释：通过科学的方法以及丰富的营养摄入可以改善智力
+2. 强身健体，丰富的生活
+* 
+## What can schools do to students' intellectural development?
+1. 学校
+* 原因：好的教育，丰富的课堂活动培养了兴趣
+* 结果：这些人认识了自己的兴趣所在
+2. 自己
+* 原因：在背后付出，坚定自己的所爱 Practice makes perfect
+* 结果：我们看到他们的成就，更要看到他们背后的付出 When we admire his achievement, we should know he has made great effort that is beyond our imagination to reach this success
+## Why do you think some people are really good at sth.?
+1. 学校
+* 原因：好的教育，丰富的课堂活动培养了兴趣
+* 结果：这些人认识了自己的兴趣所在
+2. 自己
+* 原因：在背后付出，坚定自己的所爱 Practice makes perfect
+* 结果：我们看到他们的成就，更要看到他们背后的付出 When we admire his achievement, we should know he has made great effort that is beyond our imagination to reach this success
+## Why do different kinds of intelligence are needed in this modern society?
+1. 高度分工是现代社会的一个显著特征 highly specilazation, distinguish feature
+* 原因：不同职业需要不同能力
+* 举例：老师、科学家
+2. 创新是现代社会的驱动力 driven by innovation
+* 解释：创新需要不同学科领域的交叉融合 different disciplines cross and merge with each other
+* 结果：现代社会才能有新突破 new breakthroughs
+## Why do people always miss their childhood?
+1. 成年人压力大
+* 解释：工作、家庭压力
+* 对比：父母解决生活需求 cover basic needs；很容易满足 easy to satisfied, find enjoyment
+2. 交到真朋友
+* 解释：小时候的朋友都有共同的爱好和美好回忆 sweet memory
+* 举例：一起上学、踢球、写作业，成为无话不谈的好朋友
+* 结果：成年后没时间交朋友
