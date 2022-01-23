@@ -128,9 +128,12 @@
 * 解释：Only by thinking more can we innovate；社会是创新驱动的 driven by innovation
 * 结果：通过创新，公司产出新技术，在商业领域取得突破 make breakthoughs on business field
 ## Is it good for children to learn art?
-1. 唱歌是一种解压的方式
-* 解释：有令人满意的事业 have a fulfilling career
-* 结果：遇到挫折时不放弃，他们的野心导致最后的成功 meet setbacks, keep on going，leads to career success
-2. 勤于思考 think more
-* 解释：Only by thinking more can we innovate；社会是创新驱动的 driven by innovation
-* 结果：通过创新，公司产出新技术，在商业领域取得突破 make breakthoughs on business field
+结构 | 思路 | 词伙
+---- | ---- | ----
+观点1 | 画画是一种解压的方式 | cut stress
+解释 | 孩子们可以暂时忘记手头的任务 | tasks at hand
+结果 | 这样会减少紧张 | reduce anxiety
+观点2 | 绘画也是一种社会活动 | social activity
+解释 | 可以和其他有共同爱好的人一起学习绘画 | common interests
+举例 | 可以参加绘画比赛 | join painting competitions,practise drawing
+结果 | 和别人交流是一种好的经历，对智力发展有好处 | pleasurable experience
