@@ -120,3 +120,10 @@
 2. 不只是朋友，还是成长的伙伴 friends to grow up with
 * 解释：下课后一起去家里做作业，父母热情款待 a great welcome,treat with enthusiasm
 * 结果：一起成长，进步，分享，成为生命中不可或缺的一部分 become an indispensable part of each other's life
+## What kinds of qualities should a successful businessman have?
+1. 有野心 ambitious
+* 解释：有令人满意的事业 have a fulfilling career
+* 结果：遇到挫折时不放弃，他们的野心导致最后的成功 meet setbacks, keep on going，leads to career success
+2. 勤于思考 think more
+* 解释：Only by thinking more can we innovate；社会是创新驱动的 driven by innovation
+* 结果：通过创新，公司产出新技术，在商业领域取得突破 make breakthoughs on business field
