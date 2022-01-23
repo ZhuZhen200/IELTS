@@ -106,3 +106,17 @@
 * 解释：小时候的朋友都有共同的爱好和美好回忆 sweet memory
 * 举例：一起上学、踢球、写作业，成为无话不谈的好朋友
 * 结果：成年后没时间交朋友
+## Are kids happier than adults?
+1. 不用为生计发愁，父母解决需求 cover basic needs, struggle to live
+* 举例：小时候没钱找父母要钱即可
+2. 童年可以和好朋友快乐玩耍
+* 解释：find enjoyment with friends
+* 对比：成年人要工作，没时间交朋友
+* 结果：成年人更容易感到压力和不高兴 feel stressed out more easily
+## Why do people still remember many of their friends from primary school?
+1. 有共同的回忆
+* 解释：小学有很多有趣的活动 class activities；我们一起享受这些活动
+* 结果：成年后回想起来时感到压力减轻 reduce pressure
+2. 不只是朋友，还是成长的伙伴 friends to grow up with
+* 解释：下课后一起去家里做作业，父母热情款待 a great welcome,treat with enthusiasm
+* 结果：一起成长，进步，分享，成为生命中不可或缺的一部分 become an indispensable part of each other's life
