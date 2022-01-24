@@ -137,3 +137,26 @@
 解释 | 可以和其他有共同爱好的人一起学习绘画 | common interests
 举例 | 可以参加绘画比赛 | join painting competitions,practise drawing
 结果 | 和别人交流是一种好的经历，对智力发展有好处 | pleasurable experience
+## What kinds of jobs require people to be creative?
+结构 | 思路 | 词伙
+---- | ---- | ----
+观点1 | 工程师 | engineer
+解释 | 减轻工作负担和解决实际问题 | reduce burden, practical problems
+举例1 | 需要造机器和机器人，从而取代人类劳动力 | replace human labour
+举例2 | 用工业机器人让生产过程自动化 | automate the process, industrial robot
+结果 | 提高效率，促进经济 | improve efficiency, grow economy
+观点2 | 科学家 | social activity
+背景 | 今天的地球存在很多问题，如人口爆发和环境污染 | common interests
+解释 | 用创造性的思维来创新解决这些问题 | new ways, creative mind
+结果 | 公司在市场上更有竞争力，有光明未来 | more competitive in the market, bright future
+## Do you think leaders need to have creative ability?
+结构 | 思路 | 词伙
+---- | ---- | ----
+观点1 | 创造力带来创新 | innovation
+背景 | 现代社会是创新驱动型社会 | driven by innovation
+解释 | 创造性的想法带来新技术和新产品 | creative idea, new techniques
+结果 | 
+观点2 | 创新的管理方法 | social activity
+举例 | 灵活的休息时间，轻松的氛围 | common interests
+解释 | 员工更有活力和创造力，更加专注工作 | energetic and inventive
+结果 | 整个团队团结一致和分工明确 | unite as one, clear division of work
